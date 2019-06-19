@@ -1,6 +1,6 @@
 ﻿token= NTkwOTUyMTE1MDgyNjI1MDI2.XQpwGQ.hcETImiCJPQZVmVvheZnl54CR54
 owner= 529016508622438402
-prefix= -
+prefix= !
 game= Familyteam / -play
 stayinchannel=true 
 songinstatus=false 
